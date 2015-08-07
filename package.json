@@ -1,0 +1,26 @@
+{
+  "name": "jstransformer-hamlet",
+  "version": "0.0.0",
+  "description": "Hamlet support for JSTransformers",
+  "keywords": [
+    "hamlet",
+    "jstransformer"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "test-jstransformer": "^1.0.0"
+  },
+  "scripts": {
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "repository": "jstransformers/jstransformer-hamlet",
+  "author": "JSTransformers Team (https://github.com/orgs/jstransformers/people)",
+  "license": "MIT",
+  "dependencies": {
+    "extend-shallow": "^2.0.1",
+    "hamlet": "^0.3.3"
+  }
+}
