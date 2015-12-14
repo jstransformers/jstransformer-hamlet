@@ -9,7 +9,6 @@
     "index.js"
   ],
   "dependencies": {
-    "extend-shallow": "^2.0.1",
     "hamlet": "^0.3.3"
   },
   "devDependencies": {
