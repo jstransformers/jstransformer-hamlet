@@ -1,8 +1,8 @@
-'use strict';
+'use strict'
 
-var hamlet = require('hamlet');
+var hamlet = require('hamlet')
 
-exports.name = 'hamlet';
-exports.outputFormat = 'html';
+exports.name = 'hamlet'
+exports.outputFormat = 'html'
 
-exports.compile = hamlet.compile;
+exports.compile = hamlet.compile
