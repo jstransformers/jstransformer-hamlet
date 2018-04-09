@@ -1,7 +1,5 @@
 # jstransformer-hamlet
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-hamlet.svg)](https://greenkeeper.io/)
-
 [Hamlet](https://github.com/gregwebs/hamlet.js) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-hamlet/master.svg)](https://travis-ci.org/jstransformers/jstransformer-hamlet)
